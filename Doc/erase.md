@@ -1,0 +1,1 @@
+// Deberían venir en este paquete los archivos de documentación como diagramas UML, escritos explicativos
