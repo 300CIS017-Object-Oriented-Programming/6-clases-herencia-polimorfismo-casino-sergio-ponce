@@ -1,0 +1,12 @@
+# ninja log v5
+0	289	1710708311626246896	CMakeFiles/casino.dir/Model/Jugador.cpp.o	2ffda0d06b568a24
+0	225	1710708627927273324	CMakeFiles/casino.dir/main.cpp.o	176d349e1250f69e
+0	236	1710708311574244074	CMakeFiles/casino.dir/Model/Juego.cpp.o	166c282520a25b00
+0	190	1710709998928534347	CMakeFiles/casino.dir/Model/Jugador.cpp.o	2ffda0d06b568a24
+1	225	1710709998960534034	CMakeFiles/casino.dir/Model/MayorDe13.cpp.o	28e3126d91ad4110
+0	274	1710709999012533525	CMakeFiles/casino.dir/main.cpp.o	176d349e1250f69e
+0	279	1710709999016533486	CMakeFiles/casino.dir/Model/DosColores.cpp.o	d43d3e3b288d8b0d
+1	193	1710710237133909685	CMakeFiles/casino.dir/Model/Juego.cpp.o	166c282520a25b00
+1	271	1710710237209908768	CMakeFiles/casino.dir/main.cpp.o	176d349e1250f69e
+0	287	1710710856605419441	CMakeFiles/casino.dir/main.cpp.o	176d349e1250f69e
+1	337	1710710856657418672	CMakeFiles/casino.dir/Model/Casino.cpp.o	43cc1c7cbf4fb469
