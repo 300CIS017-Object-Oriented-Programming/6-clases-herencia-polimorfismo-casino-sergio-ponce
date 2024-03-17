@@ -6,7 +6,7 @@
 #ifndef CASINO_VIEW_H
 #define CASINO_VIEW_H
 
-#include "../Model/Casino.h"
+#include "/home/sergio/Desktop/Git/Tarea6.1/6-clases-herencia-polimorfismo-casino-sergio-ponce/Model/Casino.h"
 
 class View {
 private:
